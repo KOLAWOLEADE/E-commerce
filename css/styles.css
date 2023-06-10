@@ -13,12 +13,13 @@ span img {
 }
 
 #navIdentity1{
-  margin: auto;
-  margin-right: 100px;
-  font-weight: bolder;
+ 
+  margin-right: 600px;
+ 
 }
 
 #navIdentity{
-    margin-right: 100px;
+    margin: auto;
+    margin-right: 10px;
     font-weight: bolder;
 }
