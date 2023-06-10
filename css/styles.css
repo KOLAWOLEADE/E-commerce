@@ -1,0 +1,24 @@
+body{
+
+}
+
+#logo{
+    height: 50px;
+    width: 50px;
+}
+
+span img {
+    width: 30px;
+    height: 30px;
+}
+
+#navIdentity1{
+  margin: auto;
+  margin-right: 100px;
+  font-weight: bolder;
+}
+
+#navIdentity{
+    margin-right: 100px;
+    font-weight: bolder;
+}
